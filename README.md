@@ -1,1 +1,1 @@
-# SungJinWoo
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotKao/SungJinWoo/refs/heads/main/Main.luau",true))()
